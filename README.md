@@ -64,7 +64,7 @@ This repository showcases four key projects from the IBM Data Science Profession
 
 I'm always open to discussing data science opportunities and collaborations!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](wwww.linkedin.com/in/arkevioushardwick)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:arkevioushardwick95@gmail.com)
 
 *Replace placeholder links with your actual profiles*
