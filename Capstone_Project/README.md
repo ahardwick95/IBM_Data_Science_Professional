@@ -1,3 +1,5 @@
+<div align="left">
+
 # 🚀 SpaceX Launch Analysis Capstone Project
 
 This is the final capstone project for the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) program. In this project, I analyzed SpaceX launch records to determine whether SpaceX’s Falcon 9 first-stage rocket boosters successfully landed, as a step toward cost-effective space missions.
@@ -54,4 +56,6 @@ The goal of this project was to apply the entire data science workflow — from 
 
 ### 6. Dashboard Deployment
 - Developed an interactive dashboard using Plotly Dash to visualize launch outcomes by site, payload, and success probability.
+  
+</div>
 
