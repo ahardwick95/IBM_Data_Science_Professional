@@ -1,4 +1,4 @@
-<div align="left">
+
 
 # 🚀 SpaceX Launch Analysis Capstone Project
 
@@ -57,5 +57,4 @@ The goal of this project was to apply the entire data science workflow — from 
 ### 6. Dashboard Deployment
 - Developed an interactive dashboard using Plotly Dash to visualize launch outcomes by site, payload, and success probability.
   
-</div>
 
