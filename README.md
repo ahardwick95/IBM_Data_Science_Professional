@@ -44,7 +44,7 @@ This repository showcases four key projects from the IBM Data Science Profession
 - Full data science lifecycle from collection to presentation
 - Predictive modeling of launch costs
 - Business insights and recommendations
-- [View Project](#) *Add link to your capstone*
+- [View Project](#)(https://github.com/ahardwick95/IBM_Data_Science_Professional/tree/main/Capstone_Project)
 
 ## 🛠️ Technical Skills Demonstrated
 
