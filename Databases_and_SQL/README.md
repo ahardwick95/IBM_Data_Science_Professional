@@ -19,36 +19,37 @@ This project is part of the final graded assessment in the IBM Data Science curr
 - Chicago Crime Data
 
 🧰 Technologies Used
-Python 3
+- Python 3
 
-Pandas
+- Pandas
 
-SQLite3
+- SQLite3
 
-SQL (via IPython-SQL)
+- SQL (via IPython-SQL)
 
-Jupyter Notebook
+- Jupyter Notebook
 
 🔍 Key Capabilities Demonstrated
-Reading CSV data from public URLs
 
-Creating a relational database with multiple tables
+- Reading CSV data from public URLs
 
-Performing complex SQL queries:
+- Creating a relational database with multiple tables
 
-Inner joins
+- Performing complex SQL queries:
 
-Aggregation functions
+- Inner joins
 
-Grouping and filtering
+- Aggregation functions
 
-Data analysis based on socioeconomic and educational metrics
+- Grouping and filtering
+
+- Data analysis based on socioeconomic and educational metrics
 
 📌 Learning Outcome
 This project reinforces practical SQL skills within Python for data analysis. It's ideal for anyone looking to:
 
-Understand relational database manipulation
+- Understand relational database manipulation
 
-Work with real-world, government-provided datasets
+-Work with real-world, government-provided datasets
 
-Improve analytical reasoning using SQL and Python together
+- Improve analytical reasoning using SQL and Python together
