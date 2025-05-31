@@ -50,6 +50,6 @@ This project reinforces practical SQL skills within Python for data analysis. It
 
 - Understand relational database manipulation
 
--Work with real-world, government-provided datasets
+- Work with real-world, government-provided datasets
 
 - Improve analytical reasoning using SQL and Python together
