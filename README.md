@@ -27,7 +27,7 @@ This repository showcases four key projects from the IBM Data Science Profession
 - Analyzed census, crime, and school demographic data
 - Wrote complex queries with joins, subqueries, and aggregations
 - Derived insights from large real-world datasets
-- [View SQL Scripts](#) *Add link to your SQL files*
+- [View SQL Scripts](https://github.com/ahardwick95/IBM_Data_Science_Professional/tree/main/Databases_and_SQL)
 
 ### 3. Data Visualization & Predictive Modeling
 **Technologies**: Python, Pandas, Scikit-learn, Seaborn  
