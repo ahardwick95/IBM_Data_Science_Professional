@@ -2,20 +2,21 @@
 This project is part of the final graded assessment in the IBM Data Science curriculum. It demonstrates how to load real-world datasets into a SQLite database and perform meaningful SQL queries to extract insights.
 
 📊 Overview
-Using Python, Pandas, SQLite, and SQL, this notebook guides you through:
 
-Loading and preprocessing data from three official Chicago datasets
+- Using Python, Pandas, SQLite, and SQL, this notebook guides you through:
 
-Creating and populating SQLite tables
+- Loading and preprocessing data from three official Chicago datasets
 
-Writing and executing SQL queries to answer real analytical questions
+- Creating and populating SQLite tables
+
+- Writing and executing SQL queries to answer real analytical questions
 
 📁 Datasets Used
-Chicago Socioeconomic Indicators
+- Chicago Socioeconomic Indicators
 
-Chicago Public Schools Progress Reports
+- Chicago Public Schools Progress Reports
 
-Chicago Crime Data
+- Chicago Crime Data
 
 🧰 Technologies Used
 Python 3
