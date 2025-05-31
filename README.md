@@ -60,6 +60,4 @@ This repository showcases four key projects from the IBM Data Science Profession
 - Show technical progression from fundamentals to advanced applications
 - Highlight both technical and communication skills
 
-## 📫 Connect With Me
 
-I'm always open to discussing data science opportunities and collaborations!
