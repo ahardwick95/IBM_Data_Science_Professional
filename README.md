@@ -35,7 +35,7 @@ This repository showcases four key projects from the IBM Data Science Profession
 - Performed exploratory data analysis on financial datasets
 - Built regression models (e.g., housing price prediction)
 - Created publication-quality visualizations
-- [View Analysis](#) *Add link to your analysis notebooks*
+- [View Analysis](https://github.com/ahardwick95/IBM_Data_Science_Professional/tree/main/Data_Visualization_Final_Project) 
 
 ### 4. Capstone Project: SpaceX Launch Cost Prediction
 **Technologies**: Python, Machine Learning, Data Visualization  
