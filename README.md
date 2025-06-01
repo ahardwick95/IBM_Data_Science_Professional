@@ -19,7 +19,7 @@ This repository showcases four key projects from the IBM Data Science Profession
 - Web scraped historical stock/revenue data (e.g., Tesla, GameStop)
 - Cleaned and analyzed financial datasets
 - Created interactive dashboards to visualize trends
-- [View Notebook](#) *Add link to your Jupyter notebook*
+- [View Notebook](https://github.com/ahardwick95/IBM_Data_Science_Professional/tree/main/Data_Science_Python_Final_Project) 
 
 ### 2. SQL Data Analysis Projects
 **Technologies**: SQL, MySQL/SQLite  
