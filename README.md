@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate Projects
 
-![IBM Data Science Certificate](https://your-badge-link-here.com) *Replace with your actual badge image link*
+![IBM Data Science Certificate](https://coursera.org/share/f2d4272ad1194edb6c72d747553760b4) *Replace with your actual badge image link*
 
 ## 📌 Repository Overview
 
